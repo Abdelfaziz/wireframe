@@ -1,0 +1,62 @@
+# **Barre Centrale**
+
+<header> 
+   <title>  ESPACE NUMERIQUE </title>
+
+# ** Barre de menu**
+
+<na>
+   <a href="#"> Accueil </a>
+   <a href="#"> Presentation de produits </a>
+   <a href="#"> Logiciels </a>   
+   <a href="#"> Services </a>
+   <a href="#"> Commentaires </a>
+</nav>
+
+<aside>
+      <ul>
+          <li><a href="#"><img1/></a></li>
+          <li><a href="#"><img2/></a></li>
+          <li><a href="#"><img3/></a></li>
+          <li><a href="#"><img4/></a></li>
+      </ul>
+</aside>
+
+<div>
+     <h1> PC </h1>
+         <ul>
+             <li> Laptop </li>
+             <li> Destop </li>
+             
+         </ul>
+
+      <h2> Telephone </h2>
+          <ul>
+             <li> Smart Phone </li>
+             <li> PABX </li>
+             <li> Talking Walking </li>
+             
+          </ul>
+ 
+      <h3> Logiciels </h3>
+          <ul>
+             <li> Linux </li>
+             <li> Windows </li>
+             <li> Mac OS </li>
+             
+          </ul>
+
+       <h4> Commentaires </h4>
+          <ul>
+             <li> Appareils </li>
+             <li> Services rendus </li>
+             <li> Entretien </li>
+             
+          </ul>
+
+        <h5> Commentaires </h5>
+          
+          <ul>
+             <li> Prestation Service </li>
+             <li> Avis </li>
+          </ul>
